@@ -5,6 +5,19 @@ author: "かつ丸(Katsumaru)"
 translator: "OriginalX(Rei Ayakawa)"
 ---
 
+```
+特别感谢 OriginalX 将本文版权移交给 EVA 研究站，并感谢 TabrisM 提供文档。
+
+最终统合版
+
+Original version was written by " かつ丸 "（Katsumaru）in Japanese
+Translated by "OriginalX"（Rei Ayakawa）in Chinese
+
+EVA 研究站版权所有，转载请注明作者和转自 EVA 研究站 http://www.cnnerv.com
+
+转载请务必完整保留此标题，违者必究。谢谢合作！
+```
+
 - [00: 写在最前面的话](00.md)
 - [01: 决战！箱根温泉](01.md)
 - [02: 新月的少女 第一部分 来到日本](02.md)
